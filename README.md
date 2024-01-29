@@ -6,12 +6,12 @@ En la búsqueda de las herramientas mas efectivas y minimalistas para mi entorno
 - SO: **Manjaro** (Arch based)
 Lo que mas destaca de las distribuciones  basadas en Arch es la calidad de documentación, si bien Arch tiene fama de ser difícil cuenta con varias distribuciones que son muy amigables a usuarios que no quieren llevar la experiencia Linux al extremo.
 
-https://manjaro-sway.download
+  https://manjaro-sway.download
   
 - Gestor de Ventanas: **Sway**
 Uso un solo monitor **wide** y lo mejor para este tipo de monitores ese un gestor de ventanas de tipo mosaico ya que me permite tener varias aplicaciones una al lado de la otra, la otra gran característica es que se maneja todo con el teclado y es altamente personalizable, lo único que me faltaba era un cambiar de ancho automático en la ventana  actual de esa manera poder tener N aplicaciones en un mismo espacio de trabajo pero lo he solucionado creando un script para ello.
 
-https://swaywm.org/
+  https://swaywm.org/
 
 - Terminal
      - Emulador: **Wezterm**
