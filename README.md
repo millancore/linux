@@ -12,6 +12,8 @@ Lo que mas destaca de las distribuciones  basadas en Arch es la calidad de docum
 Uso un solo monitor **wide** y lo mejor para este tipo de monitores ese un gestor de ventanas de tipo mosaico ya que me permite tener varias aplicaciones una al lado de la otra, la otra gran característica es que se maneja todo con el teclado y es altamente personalizable, lo único que me faltaba era un cambiar de ancho automático en la ventana  actual de esa manera poder tener N aplicaciones en un mismo espacio de trabajo pero lo he solucionado creando un script para ello.
 
   https://swaywm.org/
+  
+---
 
 - Terminal
      - Emulador: **Wezterm**
@@ -40,7 +42,9 @@ Uso un solo monitor **wide** y lo mejor para este tipo de monitores ese un gesto
        
        https://github.com/tmux/tmux/wiki
        
-       https://github.com/tmuxinator/tmuxinator 
+       https://github.com/tmuxinator/tmuxinator
+       
+---
        
 - Editor:
     - **Neovim**
@@ -51,12 +55,13 @@ Uso un solo monitor **wide** y lo mejor para este tipo de monitores ese un gesto
       - IdeaVim
         https://lp.jetbrains.com/ideavim/
 
+---
         
       
 - Laucher: **Rofi**
   https://github.com/davatorium/rofi
 
-  
+---
       
 - Navegador: **Vivaldi**
     https://vivaldi.com/
@@ -64,7 +69,7 @@ Uso un solo monitor **wide** y lo mejor para este tipo de monitores ese un gesto
   - **Vimium C**
     https://github.com/gdh1995/vimium-c
 
-
+---
 
 
 - Lenguajes
