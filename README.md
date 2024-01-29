@@ -50,15 +50,21 @@ Uso un solo monitor **wide** y lo mejor para este tipo de monitores ese un gesto
       https://www.jetbrains.com/phpstorm
       - IdeaVim
         https://lp.jetbrains.com/ideavim/
+
+        
       
 - Laucher: **Rofi**
   https://github.com/davatorium/rofi
+
+  
       
 - Navegador: **Vivaldi**
     https://vivaldi.com/
   
   - **Vimium C**
     https://github.com/gdh1995/vimium-c
+
+
 
 
 - Lenguajes
