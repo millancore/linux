@@ -39,6 +39,7 @@ https://swaywm.org/
        Permite dividir la terminal para ejecutar diferentes comandos en cada una de las divisiones,  si usas un gestor de ventanas tipo baldosas no hay mucha diferencia pero con `tmuxinator` puedes crear archivos de proyecto para definir que se abre en cada panel y tamaño y posición lo que lo hace un herramienta  maravillosa. 
        
        https://github.com/tmux/tmux/wiki
+       
        https://github.com/tmuxinator/tmuxinator 
        
 - Editor:
